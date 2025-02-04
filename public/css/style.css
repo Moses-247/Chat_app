@@ -1,12 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
 :root {
-	--dark-color-a: #667aff;
-	--dark-color-b: #7386ff;
-	--light-color: #e6e9ff;
-	--success-color: #5cb85c;
-	--error-color: #d9534f;
+    --dark-color-a: #003366; /* Deep Navy Blue for a modern and professional look */
+    --dark-color-b: #990000; /* Rich Maroon for a touch of elegance and tradition */
+    --light-color: #f2f2f2; /* Soft Light Grey for a clean, minimalistic background */
+    --success-color: #4CAF50; /* Modern Green for growth and success */
+    --error-color: #FF5722; /* Vibrant Orange for warnings and alerts */
 }
+
 
 * {
 	box-sizing: border-box;
@@ -36,6 +37,7 @@ a {
 	color: var(--dark-color-a);
 	border: 0;
 	font-size: 17px;
+	border-radius: 25px;
 }
 
 /* Chat Page */
