@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
 :root {
-    --dark-color-a: #003366; /* Deep Navy Blue for a modern and professional look */
-    --dark-color-b: #990000; /* Rich Maroon for a touch of elegance and tradition */
-    --light-color: #f2f2f2; /* Soft Light Grey for a clean, minimalistic background */
-    --success-color: #4CAF50; /* Modern Green for growth and success */
-    --error-color: #FF5722; /* Vibrant Orange for warnings and alerts */
+    --dark-color-a: #003366;
+    --dark-color-b: #990000; 
+    --light-color: #f2f2f2; 
+    --success-color: #4CAF50;
+    --error-color: #FF5722; 
 }
 
 
